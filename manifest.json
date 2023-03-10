@@ -1,0 +1,18 @@
+{
+    "lang": "en-us",
+    "name": "PWA",
+    "short_name": "pwa",
+    "description": "basic progressive webpage application",
+    "id": "/",
+    "start_url": "/",
+    "background_color": "#2f3d58",
+    "theme_color": "#2f3d58",
+    "orientation": "any",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "/icon.png",
+            "sizes": "1024x1024"
+        }
+    ]
+}
